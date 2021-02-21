@@ -1,0 +1,3 @@
+C:/Users/gyf/CLionProjects/git test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gyf/CLionProjects/git test/cmake-build-debug/CMakeFiles/git_test.dir
+C:/Users/gyf/CLionProjects/git test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
